@@ -1,0 +1,34 @@
+{
+  "Groups": [
+    {
+      "Name": "Main",
+      "DisplayName": "Options",
+      "Elements": [
+	  		{
+		"Name": "IncludeDir0",
+		"DisplayName": "Style",
+		"Description": [
+		"Changes style of Sonic's model.",
+				],
+            "Type": "Style",
+		    "MinValue": null,
+		    "MaxValue": null,
+            "DefaultValue": "./Sonic/Unleashed/"
+		}
+      ]
+    }
+  ],
+  "Enums": {
+    "Style": [
+      {
+        "DisplayName": "Unleashed",
+        "Value": "./Sonic/Unleashed/",
+      },
+      {
+        "DisplayName": "Stylized",
+        "Value": "./Sonic/Stylized/",
+      }
+    ]
+  },
+  "IniFile": "mod.ini"
+}
