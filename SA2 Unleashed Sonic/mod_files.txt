@@ -1,6 +1,8 @@
 add Sonic/Unleashed/+Sonic.ar.00
 add Sonic/Unleashed/+Sonic.arl
-add Sonic/Stylized/+Sonic.ar.00
-add Sonic/Stylized/+Sonic.arl
+add Sonic/Cel-shaded/+Sonic.ar.00
+add Sonic/Cel-shaded/+Sonic.arl
 add mod.ini
 add mod.json
+delete Sonic/Stylized/+Sonic.ar.00
+delete Sonic/Stylized/+Sonic.arl
