@@ -27,6 +27,14 @@
       {
         "DisplayName": "Cel-shaded",
         "Value": "./Sonic/Cel-shaded/",
+      },
+      {
+        "DisplayName": "The Trial",
+        "Value": "./Sonic/TheTrial/",
+      },
+      {
+        "DisplayName": "The Trial Cel-Shaded",
+        "Value": "./Sonic/TheTrialCel/",
       }
     ]
   },
