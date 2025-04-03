@@ -1,3 +1,9 @@
+## SA2 Unleashed Sonic v0.4
+
+- improved materials on non cel-shaded models
+- added optional life icons
+- renamed options
+
 ## SA2 Unleashed Sonic v0.3
 
 - added two new style options based on Sonic's model from SA2: The Trial.

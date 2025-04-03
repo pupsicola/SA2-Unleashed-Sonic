@@ -6,35 +6,60 @@
       "Elements": [
 	  		{
 		"Name": "IncludeDir0",
-		"DisplayName": "Style",
+		"DisplayName": "Model Style",
 		"Description": [
 		"Changes style of Sonic's model.",
 				],
-            "Type": "Style",
+            "Type": "ModelStyle",
 		    "MinValue": null,
 		    "MaxValue": null,
-            "DefaultValue": "./Sonic/Unleashed/"
+            "DefaultValue": "./Sonic/Soaps&Upgrades/"
+		},
+	  		{
+		"Name": "IncludeDir1",
+		"DisplayName": "Life Icon",
+		"Description": [
+		"Changes the Life Icon.",
+				],
+            "Type": "LifeIcon",
+		    "MinValue": null,
+		    "MaxValue": null,
+            "DefaultValue": "./LifeIcon/SA2/"
 		}
       ]
     }
   ],
   "Enums": {
-    "Style": [
+    "ModelStyle": [
       {
-        "DisplayName": "Unleashed",
-        "Value": "./Sonic/Unleashed/",
+        "DisplayName": "Soap Shoes & Upgrades",
+        "Value": "./Sonic/Soaps&Upgrades/",
       },
       {
-        "DisplayName": "Cel-shaded",
-        "Value": "./Sonic/Cel-shaded/",
+        "DisplayName": "Soap Shoes & Upgrades Cel-shaded",
+        "Value": "./Sonic/Soaps&UpgradesCel/",
       },
       {
-        "DisplayName": "The Trial",
-        "Value": "./Sonic/TheTrial/",
+        "DisplayName": "SA2 Opening Cutscene",
+        "Value": "./Sonic/SA2Opening/",
       },
       {
-        "DisplayName": "The Trial Cel-Shaded",
-        "Value": "./Sonic/TheTrialCel/",
+        "DisplayName": "SA2 Opening Cutscene Cel-Shaded",
+        "Value": "./Sonic/SA2OpeningCel/",
+      }
+    ],
+ "LifeIcon": [
+      {
+        "DisplayName": "Off",
+        "Value": "",
+      },
+      {
+        "DisplayName": "SA2",
+        "Value": "./LifeIcon/SA2/",
+      },
+      {
+        "DisplayName": "SA2 Cel-shaded",
+        "Value": "./LifeIcon/SA2Cel/",
       }
     ]
   },
