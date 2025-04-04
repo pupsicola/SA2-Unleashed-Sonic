@@ -1,3 +1,8 @@
+## SA2 Unleashed Sonic v0.5
+
+- mesh polish and adjustments
+- material adjustments
+
 ## SA2 Unleashed Sonic v0.4
 
 - improved materials on non cel-shaded models
