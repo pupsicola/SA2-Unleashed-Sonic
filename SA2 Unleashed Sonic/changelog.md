@@ -1,3 +1,8 @@
+## SA2 Unleashed Sonic v0.6
+
+- added cutscene models
+- removed mouth from cel shaded models since mouths cant flip without using a shader that doesn't support cel shading
+
 ## SA2 Unleashed Sonic v0.5
 
 - mesh polish and adjustments

@@ -6,14 +6,25 @@
       "Elements": [
 	  		{
 		"Name": "IncludeDir0",
-		"DisplayName": "Model Style",
+		"DisplayName": "Gameplay Model",
 		"Description": [
-		"Changes style of Sonic's model.",
+		"Changes Sonic's gameplay model.",
 				],
             "Type": "ModelStyle",
 		    "MinValue": null,
 		    "MaxValue": null,
             "DefaultValue": "./Sonic/Soaps&Upgrades/"
+		},
+	  		{
+		"Name": "IncludeDir2",
+		"DisplayName": "Cutscene Model",
+		"Description": [
+		"Changes Sonic's cutscene model.",
+				],
+            "Type": "EVModelStyle",
+		    "MinValue": null,
+		    "MaxValue": null,
+            "DefaultValue": "./SonicEV/Soaps&Upgrades/"
 		},
 	  		{
 		"Name": "IncludeDir1",
@@ -46,6 +57,16 @@
       {
         "DisplayName": "SA2 Opening Cutscene Cel-Shaded",
         "Value": "./Sonic/SA2OpeningCel/",
+      }
+    ],
+    "EVModelStyle": [
+      {
+        "DisplayName": "Soap Shoes & Upgrades",
+        "Value": "./SonicEV/Soaps&Upgrades/",
+      },
+      {
+        "DisplayName": "SA2 Opening Cutscene",
+        "Value": "./SonicEV/SA2Opening/",
       }
     ],
  "LifeIcon": [

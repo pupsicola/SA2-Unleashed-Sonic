@@ -6,6 +6,13 @@ add Sonic/SA2Opening/+Sonic.ar.00
 add Sonic/SA2Opening/+Sonic.arl
 add Sonic/SA2OpeningCel/+Sonic.ar.00
 add Sonic/SA2OpeningCel/+Sonic.arl
+add SonicEV/SA2Opening/Inspire/chara/+SonicEVRoot.arl
+add SonicEV/SA2Opening/Inspire/chara/+SonicEVRoot.ar.00
+add SonicEV/SA2Opening/Inspire/chara/+SonicEVRoot.ar.01
+add SonicEV/Soaps&Upgrades/Inspire/chara/+SonicEVRoot.arl
+add SonicEV/Soaps&Upgrades/Inspire/chara/+SonicEVRoot.ar.00
+add SonicEV/Soaps&Upgrades/Inspire/chara/+SonicEVRoot.ar.01
+add SonicEV/Soaps&Upgrades/Inspire/chara/+SonicEVRoot.ar.02
 add LifeIcon/SA2/+ActionCommon.ar.00
 add LifeIcon/SA2/+ActionCommon.arl
 add LifeIcon/SA2/+SystemCommonCore.ar.00
