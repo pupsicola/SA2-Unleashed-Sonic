@@ -1,3 +1,7 @@
+## SA2 Unleashed Sonic v0.9
+
+- added Super Sonic models
+
 ## SA2 Unleashed Sonic v0.8
 
 - fixed cutscene face culling issue

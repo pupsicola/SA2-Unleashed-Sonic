@@ -6,7 +6,7 @@
       "Elements": [
 	  		{
 		"Name": "IncludeDir0",
-		"DisplayName": "Gameplay Model",
+		"DisplayName": "Sonic Gameplay Model",
 		"Description": [
 		"Changes Sonic's gameplay model.",
 				],
@@ -17,7 +17,7 @@
 		},
 	  		{
 		"Name": "IncludeDir2",
-		"DisplayName": "Cutscene Model",
+		"DisplayName": "Sonic Cutscene Model",
 		"Description": [
 		"Changes Sonic's cutscene model.",
 				],
@@ -26,6 +26,18 @@
 		    "MaxValue": null,
             "DefaultValue": "./SonicEV/Soaps&Upgrades/"
 		},
+{
+		"Name": "IncludeDir3",
+		"DisplayName": "Super Sonic Gameplay Model",
+		"Description": [
+		"Changes Super Sonic's gameplay model.",
+				],
+            "Type": "SuperModelStyle",
+		    "MinValue": null,
+		    "MaxValue": null,
+            "DefaultValue": "./SuperSonic/Soaps&Upgrades/"
+		},
+
 	  		{
 		"Name": "IncludeDir1",
 		"DisplayName": "Life Icon",
@@ -91,6 +103,24 @@
       {
         "DisplayName": "SA2: The Trial",
         "Value": "./SonicEV/TheTrial/",
+      },
+    ],
+    "SuperModelStyle": [
+      {
+        "DisplayName": "Soap Shoes",
+        "Value": "./SuperSonic/Soaps/",
+      },
+      {
+        "DisplayName": "Soap Shoes & Upgrades",
+        "Value": "./SuperSonic/Soaps&Upgrades/",
+      },
+      {
+        "DisplayName": "SA2 Opening Cutscene",
+        "Value": "./SuperSonic/SA2Opening/",
+      },
+      {
+        "DisplayName": "SA2: The Trial",
+        "Value": "./SuperSonic/TheTrial/",
       },
     ],
  "LifeIcon": [

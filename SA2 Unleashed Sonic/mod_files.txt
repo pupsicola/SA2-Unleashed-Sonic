@@ -30,6 +30,14 @@ add Sonic/TheTrialCel/+Sonic.ar.00
 add Sonic/TheTrialCel/+Sonic.arl
 add Sonic/TheTrialCel/+SystemCommonCore.ar.00
 add Sonic/TheTrialCel/+SystemCommonCore.arl
+add SuperSonic/SA2Opening/+SuperSonic.ar.00
+add SuperSonic/SA2Opening/+SuperSonic.arl
+add SuperSonic/Soaps/+SuperSonic.ar.00
+add SuperSonic/Soaps/+SuperSonic.arl
+add SuperSonic/Soaps&Upgrades/+SuperSonic.ar.00
+add SuperSonic/Soaps&Upgrades/+SuperSonic.arl
+add SuperSonic/TheTrial/+SuperSonic.ar.00
+add SuperSonic/TheTrial/+SuperSonic.arl
 add SonicEV/SA2Opening/Inspire/chara/+SonicEVRoot.arl
 add SonicEV/SA2Opening/Inspire/chara/+SonicEVRoot.ar.00
 add SonicEV/SA2Opening/Inspire/chara/+SonicEVRoot.ar.01
