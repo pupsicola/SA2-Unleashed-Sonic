@@ -33,6 +33,7 @@ add Sonic/TheTrialCel/+SystemCommonCore.arl
 add SonicEV/SA2Opening/Inspire/chara/+SonicEVRoot.arl
 add SonicEV/SA2Opening/Inspire/chara/+SonicEVRoot.ar.00
 add SonicEV/SA2Opening/Inspire/chara/+SonicEVRoot.ar.01
+add SonicEV/SA2Opening/Inspire/chara/+SonicEVRoot.ar.02
 add SonicEV/Soaps&Upgrades/Inspire/chara/+SonicEVRoot.arl
 add SonicEV/Soaps&Upgrades/Inspire/chara/+SonicEVRoot.ar.00
 add SonicEV/Soaps&Upgrades/Inspire/chara/+SonicEVRoot.ar.01

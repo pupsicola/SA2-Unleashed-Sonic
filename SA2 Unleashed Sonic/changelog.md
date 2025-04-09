@@ -1,3 +1,7 @@
+## SA2 Unleashed Sonic v0.8
+
+- fixed cutscene face culling issue
+
 ## SA2 Unleashed Sonic v0.7
 
 - added SA2: The Trial gameplay and cutscene models (cel-shaded gameplay variant included)
