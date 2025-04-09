@@ -43,6 +43,14 @@
   "Enums": {
     "ModelStyle": [
       {
+        "DisplayName": "Soap Shoes",
+        "Value": "./Sonic/Soaps/",
+      },
+      {
+        "DisplayName": "Soap Shoes Cel-shaded",
+        "Value": "./Sonic/SoapsCel/",
+      },
+      {
         "DisplayName": "Soap Shoes & Upgrades",
         "Value": "./Sonic/Soaps&Upgrades/",
       },
@@ -57,9 +65,21 @@
       {
         "DisplayName": "SA2 Opening Cutscene Cel-Shaded",
         "Value": "./Sonic/SA2OpeningCel/",
+      },
+      {
+        "DisplayName": "SA2: The Trial",
+        "Value": "./Sonic/TheTrial/",
+      },
+      {
+        "DisplayName": "SA2: The Trial Cel-shaded",
+        "Value": "./Sonic/TheTrialCel/",
       }
     ],
     "EVModelStyle": [
+      {
+        "DisplayName": "Soap Shoes",
+        "Value": "./SonicEV/Soaps/",
+      },
       {
         "DisplayName": "Soap Shoes & Upgrades",
         "Value": "./SonicEV/Soaps&Upgrades/",
@@ -67,7 +87,11 @@
       {
         "DisplayName": "SA2 Opening Cutscene",
         "Value": "./SonicEV/SA2Opening/",
-      }
+      },
+      {
+        "DisplayName": "SA2: The Trial",
+        "Value": "./SonicEV/TheTrial/",
+      },
     ],
  "LifeIcon": [
       {

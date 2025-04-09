@@ -1,3 +1,10 @@
+## SA2 Unleashed Sonic v0.7
+
+- added SA2: The Trial gameplay and cutscene models (cel-shaded gameplay variant included)
+- added Soap Shoes without upgrades gameplay and cutscene models (cel-shaded gameplay variant included)
+- added results renders for all gameplay models
+- fixed and adjusted some materials
+
 ## SA2 Unleashed Sonic v0.6
 
 - added cutscene models
