@@ -1,3 +1,7 @@
+## SA2 Unleashed Sonic v1.0
+
+- gave all cel shaded models mouths that flip properly
+
 ## SA2 Unleashed Sonic v0.9
 
 - added Super Sonic models
